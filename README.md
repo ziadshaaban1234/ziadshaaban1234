@@ -7,12 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Mode%20Ready-111827?style=for-the-badge&logo=moon&logoColor=white"/>
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎯 Passionate about building modern and responsive web interfaces  
