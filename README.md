@@ -24,7 +24,7 @@
 
 ### 🍽️ What's For Dinner – Smart Recipe Explorer  
 🔹 A modern recipe browsing web app with nutritional details  
-👉 Live Demo: https://ziad-shaaban.github.io/assignment8/  
+👉 Live Demo: [https://ziad-shaaban.github.io/assignment8/](https://ziadshaaban1234.github.io/What-s-For-Dinner/)  
 
 ---
 
