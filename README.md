@@ -7,19 +7,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JmZTY4Nzg1ZGU3OGExMWQzOTFjY2ZkZTY4NjE0MWRiNmQyYjNkNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
-
 ## 🚀 About Me
 
-- 🎯 Passionate about building modern, responsive web interfaces  
+- 🎯 Passionate about building modern and responsive web interfaces  
 - 💡 Love creating clean UI designs with smooth user experiences  
 - 📌 Currently improving my skills in **JavaScript + Advanced Front-End Projects**  
 - 🌍 Based in Egypt 🇪🇬  
-- ⚡ Always working on creative landing pages & dashboard projects  
+- ⚡ Always working on new creative landing pages & web projects  
 
 ---
 
@@ -38,113 +32,103 @@ Here are some of my best front-end projects with live demos:
 ---
 
 ### 🌍 Wanderlust Travel Dashboard  
-Modern travel intelligence dashboard powered by real-time APIs.  
+🔹 Modern travel intelligence dashboard with real-time APIs for holidays, events, weather, currency conversion, and saved travel plans  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Wanderlust/  
 📂 Repo: https://github.com/ziadshaaban1234/Wanderlust  
 
 ---
 
 ### 🍽️ What's For Dinner – Smart Recipe Explorer  
-Meal inspiration app with nutrition details & modern UI.  
+🔹 Modern recipe browsing app with meal inspiration + nutrition details  
 🚀 Live Demo: https://ziadshaaban1234.github.io/What-s-For-Dinner/  
 📂 Repo: https://github.com/ziadshaaban1234/What-s-For-Dinner  
 
 ---
 
 ### 💼 Clarity – Business Landing Page  
-Professional agency landing page with smooth UI sections.  
+🔹 Professional digital agency landing page with smooth UI sections  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Clarity-Business-Website/  
 📂 Repo: https://github.com/ziadshaaban1234/Clarity-Business-Website  
 
 ---
 
 ### 🎮 GameArena – eSports Platform  
-Gaming landing page with interactive modern layout.  
+🔹 Gaming landing page with modern interactive layout  
 🚀 Live Demo: https://ziadshaaban1234.github.io/GameArena/  
 📂 Repo: https://github.com/ziadshaaban1234/GameArena  
 
 ---
 
 ### 🧑‍💻 ContactHub – CRUD System  
-Contact management system with full CRUD operations.  
+🔹 Contact management system with full CRUD operations  
 🚀 Live Demo: https://ziadshaaban1234.github.io/ContactHub-CRUD-System/  
 📂 Repo: https://github.com/ziadshaaban1234/ContactHub-CRUD-System  
 
 ---
 
 ### 🌌 Space Explorer Web  
-Creative space-themed landing experience.  
+🔹 Creative space-themed landing experience  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Space-Explorer-Web/  
 📂 Repo: https://github.com/ziadshaaban1234/Space-Explorer-Web  
 
 ---
 
 ### 🧠 Quiz App – Interactive Game  
-Dynamic quiz game with scoring system.  
+🔹 Fun quiz app with dynamic questions and scoring  
 🚀 Live Demo: https://ziadshaaban1234.github.io/quiz-app/  
 📂 Repo: https://github.com/ziadshaaban1234/quiz-app  
 
 ---
 
 ### 🌐 Portfolio Website  
-My personal portfolio showcasing my projects.  
+🔹 Personal portfolio showcasing my work  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Ziad-Portfolio-Project/  
 📂 Repo: https://github.com/ziadshaaban1234/Ziad-Portfolio-Project  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadshaaban1234&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadshaaban1234&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 Modabber – Financial Dashboard  
+🔹 Dashboard UI with analytics layout and clean structure  
+🚀 Live Demo: https://ziadshaaban1234.github.io/Modabber-Financial-Dashboard/  
+📂 Repo: https://github.com/ziadshaaban1234/Modabber-Financial-Dashboard  
 
 ---
 
-## 👀 Profile Views
+### 🎨 UX Review (Flex Edition)  
+🔹 Blog rebuilt using Flexbox layout system  
+🚀 Live Demo: https://ziadshaaban1234.github.io/The-UX-Review-Digital-Blog-flex-edition/  
+📂 Repo: https://github.com/ziadshaaban1234/The-UX-Review-Digital-Blog-flex-edition  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadshaaban1234&label=Profile%20Views&color=FF7A00&style=for-the-badge" />
-</p>
+---
+
+### 📰 The UX Review – Digital Blog  
+🔹 Blog layout project with clean UI structure  
+🚀 Live Demo: https://ziadshaaban1234.github.io/The-UX-Review-Digital-Blog/  
+📂 Repo: https://github.com/ziadshaaban1234/The-UX-Review-Digital-Blog  
+
+---
+
+### 🛍️ DroneStore Product Showcase  
+🔹 Product landing page with modern showcase design  
+🚀 Live Demo: https://ziadshaaban1234.github.io/DroneStore-Product-Showcase/  
+📂 Repo: https://github.com/ziadshaaban1234/DroneStore-Product-Showcase  
+
+---
+
+### 🏋️ FitCore Gym Website  
+🔹 Premium fitness landing page with membership form  
+🚀 Live Demo: https://ziadshaaban1234.github.io/FitCore-Fitness-Website/  
+📂 Repo: https://github.com/ziadshaaban1234/FitCore-Fitness-Website  
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:ziadshaaban45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/ziadshaaban1234">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/ziad-shaaban-954ab12bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://ziadshaaban1234.github.io/Ziad-Portfolio-Project/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=for-the-badge&logo=firefox"/>
-  </a>
-</p>
+📩 Email: **ziadshaaban45@gmail.com**  
+💻 GitHub: https://github.com/ziadshaaban1234  
+🔗 LinkedIn: https://www.linkedin.com/in/ziad-shaaban-954ab12bb  
+🌐 Portfolio: https://ziadshaaban1234.github.io/Ziad-Portfolio-Project/  
 
 ---
 
-<p align="center">
-✨ Always open for collaborations, freelance work, and creative front-end projects 🚀  
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=120&section=footer"/>
-</p>
+✨ Always open for collaborations, freelance work, and creative front-end projects 🚀
