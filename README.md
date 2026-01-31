@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate about building modern and responsive web interfaces  
-- 💡 Love creating clean UI designs with smooth user experiences  
-- 📌 Currently improving my skills in **JavaScript + Advanced Front-End Projects**  
+- 🎯 Passionate about building modern, responsive, and user-friendly web interfaces  
+- 💡 Strong focus on clean UI design and smooth user experience  
+- 📌 Currently advancing my skills in **JavaScript + Front-End Architecture**  
 - 🌍 Based in Egypt 🇪🇬  
-- ⚡ Always working on new creative landing pages & web projects  
+- ⚡ Always working on creative dashboards, landing pages, and real-world projects  
 
 ---
 
@@ -25,155 +25,110 @@
 
 ---
 
-## 🌟 Featured Projects (Live + Source Code)
+## 🌟 Featured Projects (Live Demos + Source Code)
 
-Here are some of my best front-end projects with live demos:
+A selection of my strongest front-end projects:
 
 ---
 
 ### 🌍 Wanderlust Travel Dashboard  
-🔹 Modern travel intelligence dashboard with real-time APIs for holidays, events, weather, currency conversion, and saved travel plans  
+Modern travel intelligence dashboard powered by real-time APIs (holidays, events, weather, currency conversion, saved travel plans).  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Wanderlust/  
-📂 Repo: https://github.com/ziadshaaban1234/Wanderlust  
+📂 Repository: https://github.com/ziadshaaban1234/Wanderlust  
 
 ---
 
 ### 🍽️ What's For Dinner – Smart Recipe Explorer  
-🔹 Modern recipe browsing app with meal inspiration + nutrition details  
+Interactive recipe browsing experience with meal inspiration + nutrition insights.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/What-s-For-Dinner/  
-📂 Repo: https://github.com/ziadshaaban1234/What-s-For-Dinner  
+📂 Repository: https://github.com/ziadshaaban1234/What-s-For-Dinner  
 
 ---
 
 ### 💼 Clarity – Business Landing Page  
-🔹 Professional digital agency landing page with smooth UI sections  
+Professional digital agency landing page with clean modern UI sections.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Clarity-Business-Website/  
-📂 Repo: https://github.com/ziadshaaban1234/Clarity-Business-Website  
+📂 Repository: https://github.com/ziadshaaban1234/Clarity-Business-Website  
 
 ---
 
 ### 🎮 GameArena – eSports Platform  
-🔹 Gaming landing page with modern interactive layout  
+Gaming landing platform with a bold interactive layout.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/GameArena/  
-📂 Repo: https://github.com/ziadshaaban1234/GameArena  
+📂 Repository: https://github.com/ziadshaaban1234/GameArena  
 
 ---
 
 ### 🧑‍💻 ContactHub – CRUD System  
-🔹 Contact management system with full CRUD operations  
+Full contact management system with CRUD operations and local persistence.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/ContactHub-CRUD-System/  
-📂 Repo: https://github.com/ziadshaaban1234/ContactHub-CRUD-System  
+📂 Repository: https://github.com/ziadshaaban1234/ContactHub-CRUD-System  
 
 ---
 
 ### 🌌 Space Explorer Web  
-🔹 Creative space-themed landing experience  
+Creative space-themed web experience with immersive UI design.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Space-Explorer-Web/  
-📂 Repo: https://github.com/ziadshaaban1234/Space-Explorer-Web  
+📂 Repository: https://github.com/ziadshaaban1234/Space-Explorer-Web  
 
 ---
 
 ### 🧠 Quiz App – Interactive Game  
-🔹 Fun quiz app with dynamic questions and scoring  
+Fun quiz application with scoring system and dynamic questions.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/quiz-app/  
-📂 Repo: https://github.com/ziadshaaban1234/quiz-app  
+📂 Repository: https://github.com/ziadshaaban1234/quiz-app  
 
 ---
 
 ### 🌐 Portfolio Website  
-🔹 Personal portfolio showcasing my work  
+My personal portfolio showcasing projects and skills.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Ziad-Portfolio-Project/  
-📂 Repo: https://github.com/ziadshaaban1234/Ziad-Portfolio-Project  
+📂 Repository: https://github.com/ziadshaaban1234/Ziad-Portfolio-Project  
 
 ---
 
 ### 📊 Modabber – Financial Dashboard  
-🔹 Dashboard UI with analytics layout and clean structure  
+Clean dashboard UI for analytics and finance-style layouts.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Modabber-Financial-Dashboard/  
-📂 Repo: https://github.com/ziadshaaban1234/Modabber-Financial-Dashboard  
+📂 Repository: https://github.com/ziadshaaban1234/Modabber-Financial-Dashboard  
 
 ---
 
 ### 🎨 UX Review (Flex Edition)  
-🔹 Blog rebuilt using Flexbox layout system  
+Blog UI rebuilt using Flexbox layout with responsive structure.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/The-UX-Review-Digital-Blog-flex-edition/  
-📂 Repo: https://github.com/ziadshaaban1234/The-UX-Review-Digital-Blog-flex-edition  
+📂 Repository: https://github.com/ziadshaaban1234/The-UX-Review-Digital-Blog-flex-edition  
 
 ---
 
 ### 📰 The UX Review – Digital Blog  
-🔹 Blog layout project with clean UI structure  
+Modern blog layout project with structured clean UI.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/The-UX-Review-Digital-Blog/  
-📂 Repo: https://github.com/ziadshaaban1234/The-UX-Review-Digital-Blog  
+📂 Repository: https://github.com/ziadshaaban1234/The-UX-Review-Digital-Blog  
 
 ---
 
 ### 🛍️ DroneStore Product Showcase  
-🔹 Product landing page with modern showcase design  
+Product landing page with modern showcase design and layout.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/DroneStore-Product-Showcase/  
-📂 Repo: https://github.com/ziadshaaban1234/DroneStore-Product-Showcase  
+📂 Repository: https://github.com/ziadshaaban1234/DroneStore-Product-Showcase  
 
 ---
 
 ### 🏋️ FitCore Gym Website  
-🔹 Premium fitness landing page with membership form  
+Premium gym landing page with membership and strong UI presence.  
 🚀 Live Demo: https://ziadshaaban1234.github.io/FitCore-Fitness-Website/  
-📂 Repo: https://github.com/ziadshaaban1234/FitCore-Fitness-Website  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadshaaban1234&label=Profile%20Views&color=orange&style=for-the-badge" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziadshaaban1234&theme=flat&no-frame=true&row=1&column=6" />
-</p>
+📂 Repository: https://github.com/ziadshaaban1234/FitCore-Fitness-Website  
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:ziadshaaban45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/ziadshaaban1234">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/ziad-shaaban-954ab12bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://ziadshaaban1234.github.io/Ziad-Portfolio-Project/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=for-the-badge&logo=firefox"/>
-  </a>
-</p>
+📩 Email: **ziadshaaban45@gmail.com**  
+💻 GitHub: https://github.com/ziadshaaban1234  
+🔗 LinkedIn: https://www.linkedin.com/in/ziad-shaaban-954ab12bb  
+🌐 Portfolio: https://ziadshaaban1234.github.io/Ziad-Portfolio-Project/  
 
 ---
 
-<p align="center">
-✨ Always open for collaborations, freelance work, and creative front-end projects 🚀  
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=120&section=footer"/>
-</p>
-
-⭐ Feel free to explore my repositories and projects — more coming soon 🚀🔥
+✨ Always open for collaborations, freelance work, and creative front-end opportunities 🚀
