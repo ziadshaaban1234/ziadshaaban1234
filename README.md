@@ -128,18 +128,18 @@ Here are some of my best front-end projects with live demos:
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadshaaban1234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://komarev.com/ghpvc/?username=ziadshaaban1234&label=Profile%20Views&color=orange&style=for-the-badge" />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadshaaban1234&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ziadshaaban1234&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
