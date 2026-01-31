@@ -122,6 +122,12 @@ Here are some of my best front-end projects with live demos:
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 📩 Email: **ziadshaaban45@gmail.com**  
