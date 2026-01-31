@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,angular,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,angular,github,vscode,cpp,python,cs" />
 </p>
 
 ---
@@ -28,6 +28,13 @@
 ## 🌟 Featured Projects (Live + Source Code)
 
 Here are some of my best front-end projects with live demos:
+
+---
+
+### 🌍 Wanderlust Travel Dashboard  
+🔹 Modern travel intelligence dashboard with real-time APIs for holidays, events, weather, currency conversion, and saved travel plans  
+🚀 Live Demo: https://ziadshaaban1234.github.io/Wanderlust/  
+📂 Repo: https://github.com/ziadshaaban1234/Wanderlust  
 
 ---
 
