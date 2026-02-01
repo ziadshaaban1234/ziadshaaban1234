@@ -122,10 +122,10 @@ Here are some of my best front-end projects with live demos:
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/ziadshaaban1234/ziadshaaban1234/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ziadshaaban1234/ziadshaaban1234/output/snake.svg" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ Here are some of my best front-end projects with live demos:
 ## 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/ziadshaaban1234/ziadshaaban1234/main/profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ---
