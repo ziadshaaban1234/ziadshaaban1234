@@ -122,6 +122,14 @@ Here are some of my best front-end projects with live demos:
 
 ---
 
+## 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://github.com/ziadshaaban1234/ziadshaaban1234/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
 </p>
