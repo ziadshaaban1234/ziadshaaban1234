@@ -45,6 +45,13 @@ Here are some of my best front-end projects with live demos:
 
 ---
 
+### ✅ Kanban Task Manager – Task Management Board  
+🔹 Interactive Kanban board application built with Angular and Bootstrap, allowing users to organize tasks across multiple columns with a clean, responsive, and user-friendly interface  
+🚀 Live Demo: https://ziadshaaban1234.github.io/Kanban/  
+📂 Repo: https://github.com/ziadshaaban1234/Kanban.git  
+
+---
+
 ### 💼 Clarity – Business Landing Page  
 🔹 Professional digital agency landing page with smooth UI sections  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Clarity-Business-Website/  
@@ -61,7 +68,7 @@ Here are some of my best front-end projects with live demos:
 
 ### 🧑‍💻 ContactHub – CRUD System  
 🔹 Contact management system with full CRUD operations  
-🚀 Live Demo: https://ziadshaaban1234.github.io/ContactHub-CRUD-System/  
+🚀 Live Demo: https://ziadshaaban1234.github.io/ContactHub-CRUD-System  
 📂 Repo: https://github.com/ziadshaaban1234/ContactHub-CRUD-System  
 
 ---
@@ -117,7 +124,7 @@ Here are some of my best front-end projects with live demos:
 
 ### 🏋️ FitCore Gym Website  
 🔹 Premium fitness landing page with membership form  
-🚀 Live Demo: https://ziadshaaban1234.github.io/FitCore-Fitness-Website/  
+🚀 Live Demo: https://ziadshaaban1234.github.io/FitCore-Fitness-Website  
 📂 Repo: https://github.com/ziadshaaban1234/FitCore-Fitness-Website  
 
 ---
