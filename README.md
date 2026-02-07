@@ -31,6 +31,13 @@ Here are some of my best front-end projects with live demos:
 
 ---
 
+### 📷 Adasa – Photography Blog Platform  
+🔹 Modern photography blog web application built with Angular and Tailwind CSS, featuring clean dark UI, category-based articles, authors section, and smooth reading experience  
+🚀 Live Demo: https://ziadshaaban1234.github.io/Adasa/  
+📂 Repo: https://github.com/ziadshaaban1234/Adasa.git  
+
+---
+
 ### 🌍 Wanderlust Travel Dashboard  
 🔹 Modern travel intelligence dashboard with real-time APIs for holidays, events, weather, currency conversion, and saved travel plans  
 🚀 Live Demo: https://ziadshaaban1234.github.io/Wanderlust/  
