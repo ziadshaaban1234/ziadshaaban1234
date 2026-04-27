@@ -11,8 +11,7 @@
 
 - 🎯 Passionate about building modern and responsive web interfaces  
 - 💡 Love creating clean UI designs with smooth user experiences  
-- 📌 Currently improving my skills in **JavaScript + Advanced Front-End Projects**  
-- 🌍 Based in Egypt 🇪🇬  
+- 📌 Currently improving my skills in **JavaScript + Advanced Front-End Projects** - 🌍 Based in Egypt 🇪🇬  
 - ⚡ Always working on new creative landing pages & web projects  
 
 ---
@@ -28,6 +27,13 @@
 ## 🌟 Featured Projects (Live + Source Code)
 
 Here are some of my best front-end projects with live demos:
+
+---
+
+### 🛒 FreshCart – Modern E-Commerce Platform  
+🔹 High-performance Angular e-commerce platform featuring dynamic cart management, interactive product sliders, and seamless checkout flow with a premium UI  
+🚀 Live Demo: https://ziadshaaban1234.github.io/FreshCart-Ecommerce/  
+📂 Repo: https://github.com/ziadshaaban1234/FreshCart-Ecommerce  
 
 ---
 
@@ -160,8 +166,7 @@ Here are some of my best front-end projects with live demos:
 
 ## 🤝 Connect With Me
 
-📩 Email: **ziadshaaban45@gmail.com**  
-💻 GitHub: https://github.com/ziadshaaban1234  
+📩 Email: **ziadshaaban45@gmail.com** 💻 GitHub: https://github.com/ziadshaaban1234  
 🔗 LinkedIn: https://www.linkedin.com/in/ziad-shaaban-954ab12bb  
 🌐 Portfolio: https://ziadshaaban1234.github.io/Ziad-Portfolio-Project/  
 
