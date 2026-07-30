@@ -1,63 +1,93 @@
 <h1 align="center">Hi 👋, I'm Ziad Shaaban</h1>
-<h3 align="center">Full-Stack .NET Developer | Angular Developer | Web Designer | Creative UI Builder 🚀</h3>
+
+<h3 align="center">
+Full-Stack .NET Developer | Angular Developer | Building Modern, Scalable Web Applications 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF7A00&center=true&vCenter=true&width=750&lines=Building+Modern+Full-Stack+Web+Applications;Angular+%2B+ASP.NET+Core+Developer;Crafting+Clean+UI+%26+Scalable+Backends;RESTful+APIs+%7C+SQL+Server+%7C+Clean+Architecture;Always+Learning+New+Technologies+🔥;Full-Stack+Developer+From+Egypt+🇪🇬" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF7A00&center=true&vCenter=true&width=900&lines=Full-Stack+.NET+Developer;Angular+%7C+ASP.NET+Core+Developer;Building+Modern+%26+Scalable+Web+Applications;Creating+Responsive+UI+%26+Robust+Backend+Solutions;RESTful+APIs+%7C+ASP.NET+Core+MVC+%7C+SQL+Server;Always+Learning+New+Technologies+🔥;Developer+From+Egypt+🇪🇬" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎯 Passionate about building modern, scalable, and responsive full-stack web applications
-- 💡 Love creating clean UI designs with smooth user experiences and robust backend architectures
-- 📌 Currently improving my skills in **Angular, ASP.NET Core, RESTful APIs, SQL Server, and Clean Architecture**
+- 🎯 Passionate about building modern, scalable, and responsive full-stack web applications.
+- 💡 I enjoy creating clean, interactive user interfaces and developing secure, high-performance backend solutions.
+- 🌱 Currently expanding my expertise in **Angular, ASP.NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, SQL Server, and RESTful API Development.**
+- 💻 Focused on writing clean, maintainable, and reusable code while continuously improving my software engineering skills.
+- 🚀 Interested in both front-end development and backend application architecture.
 - 🌍 Based in Egypt 🇪🇬
-- ⚡ Always working on new creative web applications and full-stack projects
+- ⚡ Always working on new full-stack web applications and continuously learning modern technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,angular,cs,dotnet,visualstudio,postgres,mysql,git,github,postman,vscode,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,angular,cs,dotnet,visualstudio,git,github,postman,vscode,cpp,python,mysql" />
 </p>
 
-### 💻 Front-End
+## 🎨 Front-End Development
+
 - HTML5
 - CSS3
 - Sass
-- Tailwind CSS
 - Bootstrap
+- Tailwind CSS
 - JavaScript (ES6+)
 - TypeScript
 - Angular
-- Responsive Design
+- Responsive Web Design
+- REST API Integration
+- UI / UX Development
 
-### ⚙️ Back-End
-- ASP.NET Core
+---
+
+## ⚙️ Back-End Development (.NET)
+
 - C#
+- .NET
+- ASP.NET Core
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- MVC Architecture
 - RESTful APIs
-- Web API
+- CRUD Operations
 - Entity Framework Core
 - LINQ
-- Dependency Injection
-- JWT Authentication
-- Identity
-- Clean Architecture
-- Repository Pattern
-
-### 🗄️ Databases
 - SQL Server
-- PostgreSQL
-- MySQL
+- Authentication & Authorization
+- ASP.NET Core Identity
+- JWT Authentication
+- Dependency Injection (DI)
+- Middleware
+- Routing
+- Model Binding
+- Model Validation
+- JSON
+- Swagger / OpenAPI
 
-### 🛠️ Tools & Technologies
+---
+
+## 🗄️ Database
+
+- SQL Server
+- MySQL
+- Database Design
+- Entity Framework Core
+- LINQ
+
+---
+
+## 🛠️ Tools & Technologies
+
 - Git
 - GitHub
-- Postman
 - Visual Studio
-- VS Code
+- Visual Studio Code
+- Postman
+- NuGet Package Manager
 
 ---
 
